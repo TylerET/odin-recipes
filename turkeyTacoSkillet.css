@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+.container{
+    width: auto;
+    display: block;
+    display: inline-flex;
+}
+
+ol{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 40%;
+}
+
+div{
+    display: inline-flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
